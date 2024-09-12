@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(551,33): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(563,33): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(574,33): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(595,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(659,33): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(235,9): warning C4189: 'vao': local variable is initialized but not referenced
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(291,15): warning C4189: 'vertexCountCube': local variable is initialized but not referenced
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(282,15): warning C4189: 'vertexCountCone': local variable is initialized but not referenced
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(281,10): warning C4189: 'vaoCone': local variable is initialized but not referenced
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(273,15): warning C4189: 'vertexCountCylinder': local variable is initialized but not referenced
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(272,10): warning C4189: 'vaoCylinder': local variable is initialized but not referenced
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(290,10): warning C4189: 'vaoCube': local variable is initialized but not referenced
+C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\main\main.cpp(576,15): warning C4189: 'initialSpeed': local variable is initialized but not referenced
+  main.vcxproj -> C:\Sandra D\aUNI 23-24\Comp graph\comp graph2\COMP3811-Computer-Graphics\bin\main-debug-x64-msc-v143.exe

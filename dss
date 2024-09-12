@@ -1,0 +1,55 @@
+[33mcommit bcdc8f49623a7491bd958f4f0f3a969f0079eba0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 3f015d7 601f1c0
+Author: sc21ar <124456828+sc21ar@users.noreply.github.com>
+Date:   Thu Nov 30 20:21:58 2023 +0000
+
+    Merge pull request #26 from sc21ar/jiyun
+    
+    Jiyun
+
+[33mcommit 601f1c08d352e5636bd0822312ab5d3f563b0c98[m
+Author: Geeyoon Lim <123895315+ml20g2l@users.noreply.github.com>
+Date:   Thu Nov 30 20:18:11 2023 +0000
+
+    Update default.vert
+    
+    from exercise2.4
+
+[33mcommit 9e4eeaf6b9e2ca821cf2bfa40bb1d0d94c7a3248[m
+Author: Geeyoon Lim <123895315+ml20g2l@users.noreply.github.com>
+Date:   Thu Nov 30 20:17:44 2023 +0000
+
+    Update default.frag
+    
+    from exercise2.4
+
+[33mcommit 3f015d7cca1337e450b240368b407172215043dd[m
+Merge: 7efdb4c 8cf758c
+Author: sc21ar <124456828+sc21ar@users.noreply.github.com>
+Date:   Thu Nov 30 20:16:00 2023 +0000
+
+    Merge pull request #25 from sc21ar/sandra
+    
+    task 1.2
+
+[33mcommit 90064566ab3514a735819518d83de68b426ac4b8[m
+Merge: 6aedcc2 7efdb4c
+Author: Geeyoon Lim <123895315+ml20g2l@users.noreply.github.com>
+Date:   Thu Nov 30 16:07:57 2023 +0000
+
+    Merge branch 'main' into jiyun
+
+[33mcommit 6aedcc21716a4fc7039b5054c429cb2f11cae608[m
+Merge: 20c06b3 6d89d16
+Author: Geeyoon Lim <123895315+ml20g2l@users.noreply.github.com>
+Date:   Thu Nov 30 15:31:30 2023 +0000
+
+    Merge branch 'main' into jiyun
+
+[33mcommit 20c06b3b12b26380471c82d86c9405e1d4ca0a26[m
+Author: Geeyoon Lim <123895315+ml20g2l@users.noreply.github.com>
+Date:   Thu Nov 30 15:28:37 2023 +0000
+
+    Update empty.cpp
+    
+    Removed 'main' function (for windows)
