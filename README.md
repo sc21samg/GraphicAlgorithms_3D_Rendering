@@ -19,14 +19,18 @@ This project was developed collaboratively by Ayesha Rahman, Sandra Guran, and G
 1. Matrix/Vector Functions
 - Implemented matrix and vector operations for 3D computations, tested using Catch2 (matrix multiplication, rotations, etc.). Verified results using Catch2 matchers.
 2. 3D Renderer Basics
+    ![Alt text](https://github.com/sc21samg/GraphicAlgorithms_3D_Rendering/blob/main/1.2%20git.png)
 - Developed a 3D renderer using OpenGL to load and display a terrain OBJ file. Implemented first-person camera controls and a basic lighting model.
 3. Texturing
+  ![Alt text](https://github.com/sc21samg/GraphicAlgorithms_3D_Rendering/blob/main/1.3%20git.png)
 - Applied orthophoto textures to the terrain mesh using custom shaders for texture mapping and sampling. Debugged shader and texture coordinate issues.
 4. Simple Instancing
 - Added two launch pads to the scene at different positions, applying textures and rendering them correctly.
 5. Custom Model
+  ![Alt text](https://github.com/sc21samg/GraphicAlgorithms_3D_Rendering/blob/main/1.5%20git.png)
 - Built a 3D rocket model from basic shapes (cubes, cylinders, cone) and placed it on a launch pad.
 6. Local Light Sources
+  ![Alt text](https://github.com/sc21samg/GraphicAlgorithms_3D_Rendering/blob/main/1.6%20git.png)
 - Implemented Blinn-Phong shading with ambient, diffuse, and specular reflections. Lighting calculations added to shaders, but some issues remain with lights following the camera.
 7. Animation
 - Created a smooth flight animation for the rocket, with vertical lift-off and horizontal flight, using a state machine for flight phases.
